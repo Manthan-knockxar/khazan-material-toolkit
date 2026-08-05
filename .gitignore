@@ -1,31 +1,31 @@
-# Python
+# Python artifacts
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
 env/
+venv/
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
 *.egg-info/
-.installed.cfg
-*.egg
 
-# Blender
+# Blender backup & temp files
 *.blend1
 *.blend2
 *.bflow
+*.crash.txt
 
-# OS
+# Generated reports & temporary ablation renders
+ablation_renders/
+khazan_visual_report.html
+*.log
+
+# Add-on distribution packages
+*.zip
+
+# IDEs & OS
+.vscode/
+.idea/
 .DS_Store
 Thumbs.db
