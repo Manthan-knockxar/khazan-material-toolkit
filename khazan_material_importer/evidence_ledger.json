@@ -1,0 +1,246 @@
+{
+  "version": "1.0",
+  "observation_count": 15,
+  "updated_at": "2026-08-04T20:53:46Z",
+  "observations": [
+    {
+      "obs_id": "OBS-0001",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_NPC_Daprona_Lower_R.png",
+      "character": "Daphrona",
+      "material": "CM_NPC_Daprona_Lower",
+      "finding_type": "extrema",
+      "raw_metrics": {
+        "r_mean": 0.0166,
+        "r_max": 0.1255,
+        "g_std": 0.0,
+        "b_std": 0.0
+      },
+      "weight": 2.5,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0002",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_NPC_Daprona_UpperA_R.png",
+      "character": "Daphrona",
+      "material": "CM_NPC_Daprona_UpperA",
+      "finding_type": "extrema",
+      "raw_metrics": {
+        "r_mean": 0.0664,
+        "r_max": 0.8667,
+        "g_std": 0.0,
+        "b_std": 0.0
+      },
+      "weight": 2.5,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0003",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_NPC_Daprona_UpperB_R.png",
+      "character": "Daphrona",
+      "material": "CM_NPC_Daprona_UpperB",
+      "finding_type": "extrema",
+      "raw_metrics": {
+        "r_mean": 0.143,
+        "r_max": 0.898,
+        "g_std": 0.0,
+        "b_std": 0.0
+      },
+      "weight": 2.5,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0004",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_I_NPC_Daprona_Book_R.png",
+      "character": "Book",
+      "material": "CM_I_Daprona_Book",
+      "finding_type": "extrema",
+      "raw_metrics": {
+        "r_mean": 0.041,
+        "r_max": 0.76,
+        "g_std": 0.0,
+        "b_std": 0.0
+      },
+      "weight": 2.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0005",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_NPC_Daprona_Hair_I.png",
+      "character": "Daphrona",
+      "material": "C_NPC_Daprona_Hair",
+      "finding_type": "packed_multichannel",
+      "raw_metrics": {
+        "r_mean": 0.9244,
+        "g_mean": 0.9695,
+        "b_mean": 0.0002,
+        "corr_rg": 0.018
+      },
+      "weight": 3.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0006",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_NPC_Daprona_Lower_I.png",
+      "character": "Daphrona",
+      "material": "CM_NPC_Daprona_Lower",
+      "finding_type": "packed_multichannel",
+      "raw_metrics": {
+        "r_mean": 0.9422,
+        "g_mean": 0.4703,
+        "b_mean": 0.0002,
+        "corr_rg": 0.154
+      },
+      "weight": 3.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0007",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_NPC_Daprona_UpperA_I.png",
+      "character": "Daphrona",
+      "material": "CM_NPC_Daprona_UpperA",
+      "finding_type": "packed_multichannel",
+      "raw_metrics": {
+        "r_mean": 0.9559,
+        "g_mean": 0.5803,
+        "b_mean": 0.0003,
+        "corr_rg": 0.125
+      },
+      "weight": 3.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0008",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_NPC_Daprona_UpperB_I.png",
+      "character": "Daphrona",
+      "material": "CM_NPC_Daprona_UpperB",
+      "finding_type": "packed_multichannel",
+      "raw_metrics": {
+        "r_mean": 0.931,
+        "g_mean": 0.5328,
+        "b_mean": 0.0003,
+        "corr_rg": 0.121
+      },
+      "weight": 3.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0009",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_Elamein_Nude_Lower_I.png",
+      "character": "Elamein",
+      "material": "CM_Daprona_Nude_Lower",
+      "finding_type": "packed_multichannel",
+      "raw_metrics": {
+        "r_mean": 0.9928,
+        "g_mean": 0.8353,
+        "b_mean": 0.0416,
+        "corr_rg": 0.367
+      },
+      "weight": 3.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0010",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_Elamein_Nude_Upper_I.png",
+      "character": "Elamein",
+      "material": "CM_Daprona_Nude_Upper",
+      "finding_type": "packed_multichannel",
+      "raw_metrics": {
+        "r_mean": 0.9932,
+        "g_mean": 0.6116,
+        "b_mean": 0.0357,
+        "corr_rg": 0.116
+      },
+      "weight": 3.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0011",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_NPC_Daprona_UpperA_S.png",
+      "character": "Daphrona",
+      "material": "CM_NPC_Daprona_UpperA",
+      "finding_type": "channel_correlation",
+      "raw_metrics": {
+        "r_mean": 0.1234,
+        "g_mean": 0.1367,
+        "b_mean": 0.0002,
+        "corr_min": -0.019
+      },
+      "weight": 3.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0012",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_NPC_Daprona_UpperB_S.png",
+      "character": "Daphrona",
+      "material": "CM_NPC_Daprona_UpperB",
+      "finding_type": "channel_correlation",
+      "raw_metrics": {
+        "r_mean": 0.1364,
+        "g_mean": 0.1422,
+        "b_mean": 0.0001,
+        "corr_min": 0.066
+      },
+      "weight": 3.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0013",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_NPC_Daprona_Lower_S.png",
+      "character": "Daphrona",
+      "material": "CM_NPC_Daprona_Lower",
+      "finding_type": "channel_correlation",
+      "raw_metrics": {
+        "r_mean": 0.0657,
+        "g_mean": 0.0794,
+        "b_mean": 0.0,
+        "corr_min": 0.02
+      },
+      "weight": 3.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0014",
+      "category": "Pixel Statistics",
+      "asset_name": "CT_Elamein_Nude_Lower_S.png",
+      "character": "Elamein",
+      "material": "CM_Daprona_Nude_Lower",
+      "finding_type": "channel_correlation",
+      "raw_metrics": {
+        "r_mean": 0.0656,
+        "g_mean": 0.0,
+        "b_mean": 0.0,
+        "corr_min": 0.0
+      },
+      "weight": 2.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    },
+    {
+      "obs_id": "OBS-0015",
+      "category": "Material Relationships",
+      "asset_name": "BASE_Eye_E.png",
+      "character": "Shared Engine",
+      "material": "C_NPC_Daprona_Eye",
+      "finding_type": "json_unreferenced_check",
+      "raw_metrics": {
+        "is_referenced": false,
+        "r_mean": 0.124,
+        "g_entropy": 1.274
+      },
+      "weight": 4.0,
+      "timestamp": "2026-08-04T20:53:46Z"
+    }
+  ]
+}
